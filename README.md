@@ -4,6 +4,6 @@
 
 $ git clone https://github.com/burakkandemir/checkhostsavar.git
 
-$ cd Check-Host-Savar
+$ cd checkhostsavar
 
 $ python checkhost.py
