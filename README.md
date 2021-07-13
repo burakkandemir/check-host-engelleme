@@ -2,7 +2,7 @@
 
 # Kurulum ;
 
-$ git clone https://github.com/PolatBey/Check-Host-Savar.git
+$ git clone https://github.com/burakkandemir/checkhostsavar.git
 
 $ cd Check-Host-Savar
 
